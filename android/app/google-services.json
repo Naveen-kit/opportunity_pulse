@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413869418798",
+    "project_id": "unify-hack",
+    "storage_bucket": "unify-hack.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413869418798:android:59fbe69c6875f7731ab2bf",
+        "android_client_info": {
+          "package_name": "com.example.opportunity_pulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn7u_X2qrLZr0jKapz4nlvW3k6mlKVn20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
